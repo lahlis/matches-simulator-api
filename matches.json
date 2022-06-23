@@ -8,12 +8,12 @@
     "home team": {
       "name": "Brazil"
       "rate": 5
-      "image": "TODO"
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "away team": {
       "name": "Argentina"
       "rate": 5
-      "image": "TODO"
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   }  
  ]
