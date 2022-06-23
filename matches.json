@@ -1,1 +1,19 @@
-
+[
+  {
+    "description": "2022 FIFA World Cup Qualifiers",
+    "local": {
+      "name": "Maracanã",
+      "image": "TODO"
+    },
+    "home team": {
+      "name": "Brazil"
+      "rate": 5
+      "image": "TODO"
+    },
+    "away team": {
+      "name": "Argentina"
+      "rate": 5
+      "image": "TODO"
+    }
+  }  
+ ]
