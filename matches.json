@@ -5,12 +5,12 @@
       "name": "Maracanã",
       "image": "TODO"
     },
-    "home team": {
+    "home_team": {
       "name": "Brazil"
       "rate": 5
       "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
-    "away team": {
+    "away_team": {
       "name": "Argentina"
       "rate": 5
       "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
